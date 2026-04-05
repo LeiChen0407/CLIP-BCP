@@ -16,7 +16,7 @@ Download the CLIP model from [Hugging Face](https://huggingface.co/openai/clip-v
 
 - Train Dataset:[CNNDetection](https://github.com/peterwang512/CNNDetection)
 - AIGCDetect-Benchmark:[PatchCraft](https://fdmas.github.io/AIGCDetect/)
-- Genimage:[Genimage]()
+- Genimage:[Genimage](https://genimage-dataset.github.io/)
 
 ### Train
 
